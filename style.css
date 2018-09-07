@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Julius+Sans+One|Mallanna|Palanquin+Dark');
+body {
+  background-color: #2d2d2d;
+  width: 100%;
+  margin: auto;
+}
+.logo {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding-bottom: 5em;
+}
+.links {
+  position: relative;
+  padding-top: 30%;
+  font-family: 'Mallanna', sans-serif;
+  text-shadow: 1px 1px 0px rgba(8,230,255,100), -1px -1px 0px rgba(255,0,0,100);
+}
+.links li {
+  display: inline-block;
+  font-size: 1.5em;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+}
+.links a, a:checked {
+  text-decoration: none;
+  color: white;
+}
+.links a:hover {
+  text-decoration: none;
+  color: #ffff8c;
+}
