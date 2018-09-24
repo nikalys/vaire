@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Julius+Sans+One|Mallanna|Palanquin+Dark');
 body {
   background-image: url("storm.jpg");
+  background-size: cover;
   width: 100%;
   margin: auto;
 }
