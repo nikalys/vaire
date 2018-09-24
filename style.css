@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Julius+Sans+One|Mallanna|Palanquin+Dark');
 body {
-  background-color: #2d2d2d;
+  background-image: url("cloud.png");
   width: 100%;
   margin: auto;
 }
