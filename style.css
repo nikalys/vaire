@@ -8,6 +8,11 @@ html {
     height: 100%;
     overflow: hidden;
 }
+body {
+    height:100%;
+    overflow: scroll;
+    -webkit-overflow-scrolling: touch;
+}
 .logo {
   position: absolute;
   top: 40%;
